@@ -1,0 +1,15 @@
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains_HomeWork/repo_HomeWork/example1/HelloCode1/example001HelloConsole/bin/Debug/net6.0/example001HelloConsole
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains_HomeWork/repo_HomeWork/example1/HelloCode1/example001HelloConsole/bin/Debug/net6.0/example001HelloConsole.deps.json
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains_HomeWork/repo_HomeWork/example1/HelloCode1/example001HelloConsole/bin/Debug/net6.0/example001HelloConsole.runtimeconfig.json
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains_HomeWork/repo_HomeWork/example1/HelloCode1/example001HelloConsole/bin/Debug/net6.0/example001HelloConsole.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains_HomeWork/repo_HomeWork/example1/HelloCode1/example001HelloConsole/bin/Debug/net6.0/ref/example001HelloConsole.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains_HomeWork/repo_HomeWork/example1/HelloCode1/example001HelloConsole/bin/Debug/net6.0/example001HelloConsole.pdb
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains_HomeWork/repo_HomeWork/example1/HelloCode1/example001HelloConsole/obj/Debug/net6.0/example001HelloConsole.csproj.AssemblyReference.cache
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains_HomeWork/repo_HomeWork/example1/HelloCode1/example001HelloConsole/obj/Debug/net6.0/example001HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains_HomeWork/repo_HomeWork/example1/HelloCode1/example001HelloConsole/obj/Debug/net6.0/example001HelloConsole.AssemblyInfoInputs.cache
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains_HomeWork/repo_HomeWork/example1/HelloCode1/example001HelloConsole/obj/Debug/net6.0/example001HelloConsole.AssemblyInfo.cs
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains_HomeWork/repo_HomeWork/example1/HelloCode1/example001HelloConsole/obj/Debug/net6.0/example001HelloConsole.csproj.CoreCompileInputs.cache
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains_HomeWork/repo_HomeWork/example1/HelloCode1/example001HelloConsole/obj/Debug/net6.0/example001HelloConsole.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains_HomeWork/repo_HomeWork/example1/HelloCode1/example001HelloConsole/obj/Debug/net6.0/ref/example001HelloConsole.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains_HomeWork/repo_HomeWork/example1/HelloCode1/example001HelloConsole/obj/Debug/net6.0/example001HelloConsole.pdb
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains_HomeWork/repo_HomeWork/example1/HelloCode1/example001HelloConsole/obj/Debug/net6.0/example001HelloConsole.genruntimeconfig.cache
